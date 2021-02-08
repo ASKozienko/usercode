@@ -1,7 +1,7 @@
 <?php
 
 function handle($data) {
-    $data['foo'] = 5;
+    $data['foo'] = 6;
 
     return $data;
 }
